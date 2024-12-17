@@ -1,0 +1,15 @@
+img{
+    width: 400px;
+    height: 400px;
+    margin-top: 16px;
+    margin-left: 100px;
+    /* transform: rotate(50deg); */
+    /* transform: translatex(200px); */
+    /* transform: skew(20deg ); */
+}
+img:hover{
+    transform: skew(20deg);
+
+
+}
+
